@@ -1,0 +1,11 @@
+#root {
+  max-width: 1268px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+h1 {
+  padding-inline: 0.5rem;
+}
+li {
+  margin-left: 1rem;
+}

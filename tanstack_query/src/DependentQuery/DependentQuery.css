@@ -1,0 +1,9 @@
+.dep_query {
+  margin-top: 1rem;
+  background-color: #1c1c1c;
+  padding: 0.5rem;
+}
+h2 {
+  text-decoration: underline;
+  font-weight: 400;
+}
